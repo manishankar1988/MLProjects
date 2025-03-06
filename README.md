@@ -45,3 +45,14 @@ add code for exception
 add code for logger
 python src/logger.py 
 see logs created
+
+
+git pull origin main --rebase
+
+take student perfomance data from kaggle
+
+create a folder notebook
+create a folder data
+add stud.csv data
+
+add to files one for EDa and other model training
