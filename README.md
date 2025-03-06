@@ -12,4 +12,6 @@ git config -- global user.name “manishankar1988“
 git config --global user.email “manishankar1988@gmail.com“
 git remote add origin https://github.com/manishankar1988/MLProjects.git
 git push -u origin main
+pip install -r requirements.txt
+see that mlproject.egg-info created
 
